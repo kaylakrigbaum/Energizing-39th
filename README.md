@@ -3,6 +3,6 @@ This repository serves as the codebase for the website energizing39th.com. It is
 
 Authors: Kayla Krigbaum, Coy Kwan, Gabriella Willis, and Ami Khalsa. 
 
-Running locally 
-Run 'npm install'
-Run 'npm run dev'
+## Running locally
+- Run `npm install`
+- Run `npm run dev`
